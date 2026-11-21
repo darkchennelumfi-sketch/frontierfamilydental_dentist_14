@@ -1,0 +1,125 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Dentist in Powell | Frontier Family Dental | Powell Dentist",
+      "headings": [
+        "Serving Powell, WY and the rest of the Big Horn Basin",
+        "Frontier Family Dental",
+        "Exceptional Care",
+        "Modern Dentistry",
+        "Timeless Values",
+        "Our Services",
+        "Emergency Care",
+        "Cosmetic Dentistry",
+        "Family Dentistry",
+        "Implant Dentistry",
+        "Committed to Your Oral Health",
+        "Our Conveniently Located Powell Dental Office",
+        "Implants",
+        "Our Location",
+        "Contact Us",
+        "Navigation",
+        "Social",
+        "Accessibility Toolbar"
+      ],
+      "sections": [
+        "Header",
+        "Hero",
+        "Our Services",
+        "Committed to Your Oral Health",
+        "Our Conveniently Located Powell Dental Office",
+        "Implants",
+        "Our Location",
+        "Contact Us (form)",
+        "Navigation",
+        "Social",
+        "Footer",
+        "Accessibility Toolbar"
+      ]
+    }
+  ],
+  "facts": {
+    "business_name": [
+      "Frontier Family Dental"
+    ],
+    "phone": [
+      "307.754.4554"
+    ],
+    "address": [
+      "303 N Division St",
+      "Powell, WY 82435",
+      "303 N Division St., Powell, Wyoming"
+    ],
+    "service_area": [
+      "Serving Powell, WY and the rest of the Big Horn Basin"
+    ],
+    "names": [
+      "Dr. Williams"
+    ],
+    "services": [
+      "Emergency Care",
+      "Cosmetic Dentistry",
+      "Family Dentistry",
+      "Implant Dentistry",
+      "Dental Implants",
+      "Preventative Dental Care",
+      "Restorative Dental Care",
+      "Cosmetic Dental Care"
+    ],
+    "affiliations": [
+      "White Cap Institute"
+    ],
+    "experience": [
+      "over 40 years of combined dental care experience"
+    ],
+    "copyright": [
+      "© 2026 Frontier Family Dental"
+    ],
+    "email": [],
+    "hours": []
+  },
+  "navigation": {
+    "header": [
+      "/",
+      "/about",
+      "/about/faq",
+      "/services",
+      "/services/dental-implants",
+      "/services/preventative-dental-care",
+      "/services/restorative-dental-care",
+      "/services/cosmetic-dental-care",
+      "/reviews",
+      "/news",
+      "/contact"
+    ],
+    "footer": [
+      "/",
+      "/about",
+      "/services",
+      "/reviews",
+      "/contact",
+      "/news",
+      "/terms-of-use",
+      "/privacy-policy",
+      "/sitemap"
+    ],
+    "phone_cta": "tel:307-754-4554",
+    "social": [
+      "https://www.google.com/search?hl=en-US&gl=us&q=Frontier+Family+Dental,+303+N+Division+St,+Powell,+WY+82435&ludocid=5304372578879638569&lsig=AB86z5X0zeGxVBXFa5QZPAh1pbEE",
+      "https://www.facebook.com/Frontier-Family-Dental-559942360697116",
+      "https://myfrontierfamilydental.com/"
+    ]
+  },
+  "assets": [
+    {
+      "src": "/assets/images/old_site_design.png",
+      "type": "image",
+      "bytes": 1746495,
+      "width": 1440,
+      "height": 4880,
+      "source": "frontierfamilydental_dentist_14_old/old_site_design.png",
+      "note": "Full-page screenshot of the old home page used as design reference"
+    }
+  ]
+}
